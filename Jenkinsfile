@@ -1,7 +1,7 @@
 pipeline {
 
 	agent {
-		label "geode"
+		label "nogeode"
 	}
 
 /*
